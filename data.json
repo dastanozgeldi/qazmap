@@ -1,79 +1,585 @@
 [
   {
-    "name": "Ахмет Байтұрсынұлы",
-    "place": [48.56, 63.54],
-    "image": "https://upload.wikimedia.org/wikipedia/kk/thumb/3/31/Baitursynuly.jpg/560px-Baitursynuly.jpg",
-    "youtube_url": "https://www.youtube.com/embed/I6WAWEVFfvs?si=sa6wAcRt6wcXMqI5",
-    "wiki": "https://kk.wikipedia.org/wiki/%D0%90%D1%85%D0%BC%D0%B5%D1%82_%D0%91%D0%B0%D0%B9%D1%82%D2%B1%D1%80%D1%81%D1%8B%D0%BD%D2%B1%D0%BB%D1%8B"
-  },
-  {
-    "name": "Абай Құнанбайұлы",
-    "place": [48.25, 79.66],
+    "name": "Абай Құнанбаев",
+    "place": [48.250556, 79.663056],
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/23/Abai_Kunanbaev.jpg",
-    "youtube_url": "https://www.youtube.com/embed/I6WAWEVFfvs?si=sa6wAcRt6wcXMqI5",
-    "wiki": ""
+    "youtube_url": "https://www.youtube.com/embed/w6jeu5kfW4A?si=30zglRbB4ccl9b3",
+    "wiki": "https://kk.wikipedia.org/wiki/%D0%90%D0%B1%D0%B0%D0%B9_%D2%9A%D2%B1%D0%BD%D0%B0%D0%BD%D0%B1%D0%B0%D0%B5%D0%B2"
   },
   {
     "name": "Мұхтар Әуезов",
-    "place": [48.56, 79.15],
+    "place": [48.943889, 79.266111],
     "image": "https://upload.wikimedia.org/wikipedia/kk/2/2c/Auesov.jpg",
-    "youtube_url": "https://www.youtube.com/embed/I6WAWEVFfvs?si=sa6wAcRt6wcXMqI5",
-    "wiki": ""
+    "youtube_url": "https://www.youtube.com/embed/lRg9upMxErI?si=-DjySbT0gCtapqNg",
+    "wiki": "https://kk.wikipedia.org/wiki/%D0%9C%D2%B1%D1%85%D1%82%D0%B0%D1%80_%D0%90%D0%B2%D0%B5%D0%B7%D0%BE%D0%B2"
   },
   {
     "name": "Шәкәрім Құдайбердіұлы",
-    "place": [50.24, 80.13],
+    "place": [50.411111, 80.2275],
     "image": "https://upload.wikimedia.org/wikipedia/kk/3/3f/Kudaiberdiev.jpg",
-    "youtube_url": "https://www.youtube.com/embed/I6WAWEVFfvs?si=sa6wAcRt6wcXMqI5",
-    "wiki": ""
+    "youtube_url": "https://www.youtube.com/embed/amcWURT9IRw?si=_qSwbCvV_dhXilXy",
+    "wiki": "https://kk.wikipedia.org/wiki/%D0%A8%D3%99%D0%BA%D3%99%D1%80%D1%96%D0%BC_%D2%9A%D2%B1%D0%B4%D0%B0%D0%B9%D0%B1%D0%B5%D1%80%D0%B4%D1%96%D2%B1%D0%BB%D1%8B"
   },
   {
     "name": "Сапарғали Бегалин",
-    "place": [49.47, 78.04],
+    "place": [49.783333, 78.066667],
     "image": "https://upload.wikimedia.org/wikipedia/ru/9/94/Begalin_s.jpg",
-    "youtube_url": "https://www.youtube.com/embed/I6WAWEVFfvs?si=sa6wAcRt6wcXMqI5",
-    "wiki": ""
+    "youtube_url": "https://www.youtube.com/embed/c0h8pDgmbGE?si=RpS4yWEQPvgDhZhf",
+    "wiki": "https://kk.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BF%D0%B0%D1%80%D2%93%D0%B0%D0%BB%D0%B8_%D0%AB%D1%81%D2%9B%D0%B0%D2%9B%D2%B1%D0%BB%D1%8B_%D0%91%D0%B5%D0%B3%D0%B0%D0%BB%D0%B8%D0%BD"
   },
   {
     "name": "Мәлік Ғабдуллин",
-    "place": [52.59, 69.26],
+    "place": [52.989444, 69.435278],
     "image": "https://upload.wikimedia.org/wikipedia/kk/0/0b/%D0%9C._%D2%92%D0%B0%D0%B1%D0%B4%D1%83%D0%BB%D0%BB%D0%B8%D0%BD.jpg",
-    "youtube_url": "https://www.youtube.com/embed/I6WAWEVFfvs?si=sa6wAcRt6wcXMqI5",
-    "wiki": ""
+    "youtube_url": "https://www.youtube.com/embed/gGMpVhdUwcs?si=LjNiJqE1fPBQ5vvB",
+    "wiki": "https://kk.wikipedia.org/wiki/%D0%9C%D3%99%D0%BB%D1%96%D0%BA_%D2%92%D0%B0%D0%B1%D0%B4%D1%83%D0%BB%D0%BB%D1%96%D0%BD"
   },
   {
     "name": "Ілияс Есенберлин",
-    "place": [51.48, 68.2],
+    "place": [51.805, 68.349167],
     "image": "https://upload.wikimedia.org/wikipedia/ru/thumb/d/d4/%D0%98%D0%BB%D1%8C%D1%8F%D1%81_%D0%95%D1%81%D0%B5%D0%BD%D0%B1%D0%B5%D1%80%D0%BB%D0%B8%D0%BD.jpg/274px-%D0%98%D0%BB%D1%8C%D1%8F%D1%81_%D0%95%D1%81%D0%B5%D0%BD%D0%B1%D0%B5%D1%80%D0%BB%D0%B8%D0%BD.jpg",
-    "youtube_url": "https://www.youtube.com/embed/I6WAWEVFfvs?si=sa6wAcRt6wcXMqI5",
-    "wiki": ""
+    "youtube_url": "https://www.youtube.com/embed/BvA4EW0_pMo?si=34EGE_id0SVoQQoc",
+    "wiki": "https://kk.wikipedia.org/wiki/%D0%98%D0%BB%D1%8F%D1%81_%D0%95%D1%81%D0%B5%D0%BD%D0%B1%D0%B5%D1%80%D0%BB%D1%96%D0%BD"
   },
   {
     "name": "Шолпан Иманбаева",
-    "place": [50.29, 70.13],
+    "place": [50.483333, 70.216667],
     "image": "https://biographs.org/images/72/72287/sholpan-imanbayeva-1.jpg",
-    "youtube_url": "https://www.youtube.com/embed/I6WAWEVFfvs?si=sa6wAcRt6wcXMqI5",
-    "wiki": ""
+    "youtube_url": "https://www.youtube.com/embed/6UwyVywTfdU?si=MdetFn-p1zA9-fWI",
+    "wiki": "https://kk.wikipedia.org/wiki/%D0%98%D0%BC%D0%B0%D0%BD%D0%B1%D0%B0%D0%B5%D0%B2%D0%B0,_%D0%A8%D0%BE%D0%BB%D0%BF%D0%B0%D0%BD"
   },
   {
     "name": "Ғабит Мүсірепов",
-    "place": [54.23, 66.29],
+    "place": [54.391111, 66.486667],
     "image": "https://upload.wikimedia.org/wikipedia/kk/thumb/8/8a/%D2%92%D0%B0%D0%B1%D0%B8%D1%82_%D0%9C%D2%AF%D1%81%D1%96%D1%80%D0%B5%D0%BF%D0%BE%D0%B2.jpg/640px-%D2%92%D0%B0%D0%B1%D0%B8%D1%82_%D0%9C%D2%AF%D1%81%D1%96%D1%80%D0%B5%D0%BF%D0%BE%D0%B2.jpg",
-    "youtube_url": "https://www.youtube.com/embed/I6WAWEVFfvs?si=sa6wAcRt6wcXMqI5",
-    "wiki": ""
+    "youtube_url": "https://www.youtube.com/embed/Dg6EQGfn2Dw?si=cilDQYcetL9auo59",
+    "wiki": "https://kk.wikipedia.org/wiki/%D0%9C%D2%B1%D1%81%D1%96%D1%80%D0%B5%D0%BF%D0%BE%D0%B2,_%D2%92%D"
   },
   {
     "name": "Сәбит Мұқанұлы",
-    "place": [49.58, 72.36],
+    "place": [49.981944, 72.6075],
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQBcV_nnPlh-rL3EfoN9QOYXuoyD7_S6P4lhPTwJWSxw&s",
-    "youtube_url": "https://www.youtube.com/embed/I6WAWEVFfvs?si=sa6wAcRt6wcXMqI5",
-    "wiki": ""
+    "youtube_url": "https://www.youtube.com/embed/QK4qyDUlQkQ?si=coSMymCeYkncrgQh",
+    "wiki": "https://kk.wikipedia.org/wiki/%D0%A1%D3%99%D0%B1%D0%B8%D1%82_%D0%9C%D2%B1%D2%9B%D0%B0%D0%BD%D2%B1%D0%BB%D1%8B_%D0%9C%D2%B1%D2%9B%D0%B0%D0%BD%D0%BE%D0%B2"
   },
   {
     "name": "Сәкен Сейфуллин",
-    "place": [47.48, 73.12],
+    "place": [47.81, 73.21],
     "image": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Saken_Seifullin.jpg",
-    "youtube_url": "https://www.youtube.com/embed/I6WAWEVFfvs?si=sa6wAcRt6wcXMqI5",
-    "wiki": ""
+    "youtube_url": "https://www.youtube.com/embed/OwFCUfqyOps?si=ITNdjwbCzqLODNX5",
+    "wiki": "https://kk.wikipedia.org/wiki/%D0%A1%D3%99%D0%BA%D0%B5%D0%BD_%D0%A1%D0%B5%D0%B9%D1%84%D1%83%D0%BB%D0%BB%D1%96%D0%BD"
+  },
+  {
+    "name": "Ыбырай Алтынсарин",
+    "place": [52.402778, 64.0875],
+    "image": "https://upload.wikimedia.org/wikipedia/kk/5/5a/Altynsarin.jpeg",
+    "youtube_url": "https://www.youtube.com/embed/cRGhB914NTA?si=0x207AsjS2n0WkYB",
+    "wiki": "https://kk.wikipedia.org/wiki/%D0%AB%D0%B1%D1%8B%D1%80%D0%B0%D0%B9_%D0%90%D0%BB%D1%82%D1%8B%D0%BD%D1%81%D0%B0%D1%80%D0%B8%D0%BD"
+  },
+  {
+    "name": "Ахмет Байтұрсынұлы",
+    "place": [48.933889, 63.910278],
+    "image": "https://upload.wikimedia.org/wikipedia/kk/thumb/3/31/Baitursynuly.jpg/560px-Baitursynuly.jpg",
+    "youtube_url": "https://www.youtube.com/embed/I6WAWEVFfvs?si=gaRc179GN70eSfnv",
+    "wiki": "https://kk.wikipedia.org/wiki/%D0%90%D1%85%D0%BC%D0%B5%D1%82_%D0%91%D0%B0%D0%B9%D1%82%D2%B1%D1%80%D1%81%D1%8B%D0%BD%D2%B1%D0%BB%D1%8B"
+  },
+  {
+    "name": "Міржақып Дулатұлы",
+    "place": [50.952222, 64.293056],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Dulatov_Mirjakip.jpg",
+    "youtube_url": "https://www.youtube.com/embed/xapck8NFU5M?si=Fvs5MsVDFTCw-iKi",
+    "wiki": "https://kk.wikipedia.org/wiki/%D0%9C%D1%96%D1%80%D0%B6%D0%B0%D2%9B%D1%8B%D0%BF_%D0%94%D1%83%D0%BB%D0%B0%D1%82%D2%B1%D0%BB%D1%8B"
+  },
+  {
+    "name": "Спандияр Көбеев",
+    "place": [53.81, 64.15],
+    "image": "",
+    "youtube_url": "https://www.youtube.com/embed/L8C5eIW0nwY?si=SV3tlwbXZMNimJ4m",
+    "wiki": "https://kk.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B0%D0%BD%D0%B4%D0%B8%D1%8F%D1%80_%D0%9A%D3%A9%D0%B1%D0%B5%D0%B5%D0%B2"
+  },
+  {
+    "name": "Бейімбет Майлин",
+    "place": [52.566667, 62.783333],
+    "image": "",
+    "youtube_url": "https://www.youtube.com/embed/06U8Ov02qDg?si=c_uqpc_m68m5KfLB",
+    "wiki": "https://kk.wikipedia.org/wiki/%D0%91%D0%B5%D0%B9%D1%96%D0%BC%D0%B1%D0%B5%D1%82_%D0%9C%D0%B0%D0%B9%D0%BB%D1%96%D0%BD"
+  },
+  {
+    "name": "Ілияс Омаров",
+    "place": [53.287742, 65.094683],
+    "image": "",
+    "youtube_url": "https://www.youtube.com/embed/0SPuGX8r-c0?si=SbYK2EyJtSf-237T",
+    "wiki": "https://kk.wikipedia.org/wiki/%D0%86%D0%BB%D1%96%D1%8F%D1%81_%D0%9E%D0%BC%D0%B0%D1%80%D0%BE%D0%B2"
+  },
+  {
+    "name": "Бердібек Соқпақбаев",
+    "place": [42.72651, 80.176229],
+    "image": "",
+    "youtube_url": "https://www.youtube.com/embed/zRtAQOjfUbg?si=kftMdQQBOBvUcvaV",
+    "wiki": "https://kk.wikipedia.org/wiki/%D0%91%D0%B5%D1%80%D0%B4%D1%96%D0%B1%D0%B5%D0%BA_%D0%A1%D0%BE%D2%9B%D0%BF%D0%B0%D2%9B%D0%B1%D0%B0%D0%B5%D0%B2"
+  },
+  {
+    "name": "Олжас Сүлейменов",
+    "place": [43.25, 76.9],
+    "image": "",
+    "youtube_url": "https://www.youtube.com/embed/-xbUiDAnLyE?si=jgq24Z7Cc-2gMjxK",
+    "wiki": "https://kk.wikipedia.org/wiki/%D0%A1%D2%AF%D0%BB%D0%B5%D0%B9%D0%BC%D0%B5%D0%BD%D0%BE%D0%B2,_%D0%9E%D0%BB%D0%B6%D0%B0%D1%81"
+  },
+  {
+    "name": "Сара Тастанбекқызы",
+    "place": [45.388611, 79.502222],
+    "image": "",
+    "youtube_url": "https://www.youtube.com/embed/M5rNA1k5riw?si=JRX2E0QRPp2B67ef",
+    "wiki": "https://kk.wikipedia.org/wiki/%D0%A2%D0%B0%D1%81%D1%82%D0%B0%D0%BD%D0%B1%D0%B5%D0%BA%D0%BE%D0%B2%D0%B0,_%D0%A1%D0%B0%D1%80%D0%B0"
+  },
+  {
+    "name": "Мұқағали Мақатаев",
+    "place": [43.152806, 79.884762],
+    "image": "",
+    "youtube_url": "https://www.youtube.com/embed/_meRFx0TaQs?si=sq9fRqeae1ilnA7M",
+    "wiki": "https://kk.wikipedia.org/wiki/%D0%9C%D2%B1%D2%9B%D0%B0%D2%9B%D0%B0%D0%BB%D1%96_%D0%9C%D0%B0%D2%9B%D0%B0%D1%82%D0%B0%D0%B5%D0%B2"
+  },
+  {
+    "name": "Сүйінбай Аронұлы",
+    "place": [48.129444, 76.099722],
+    "image": "",
+    "youtube_url": "https://www.youtube.com/embed/rnsa3bElqHg?si=2Yj808tpsAQL7Hc2",
+    "wiki": "https://kk.wikipedia.org/wiki/%D0%A1%D2%AF%D0%B9%D1%96%D0%BD%D0%B1%D0%B0%D0%B9_%D0%90%D1%80%D0%BE%D0%BD%D1%83%D0%BB%D1%8B"
+  },
+  {
+    "name": "Үмбетәлі Кәрібаев",
+    "place": [43.255278, 76.361111],
+    "image": "",
+    "youtube_url": "https://www.youtube.com/embed/JcD0aEN5X9s?si=wmzhJCREqSEori02",
+    "wiki": "https://kk.wikipedia.org/wiki/%D0%9A%D3%99%D1%80%D1%96%D0%B1%D0%B0%D0%B5%D0%B2,_%D2%AE%D0%BC%D0%B1%D0%B5%D1%82%D3%99%D0%BB%D1%96"
+  },
+  {
+    "name": "Қадыр Мырза Әли",
+    "place": [50.256389, 52.597222],
+    "image": "",
+    "youtube_url": "https://www.youtube.com/embed/XK-eyzYjTsQ?si=5rfmVWX00uwq3mTB",
+    "wiki": "https://kk.wikipedia.org/wiki/%D2%9A%D0%B0%D0%B4%D1%8B%D1%80_%D0%9C%D1%8B%D1%80%D0%B7%D0%B0_%D3%98%D0%BB%D1%96"
+  },
+  {
+    "name": "Жамбыл Жабаев",
+    "place": [43.144755, 76.180981],
+    "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRGGKzfo83d7LUs6IyvLzMRihjmsxRW3HXT2khkxbS4DbsVqj8sroq3zK8i5mH",
+    "youtube_url": "https://www.youtube.com/embed/Dg4EKY3mpuo?si=6arF0x39K5rOENTO",
+    "wiki": "https://kk.wikipedia.org/wiki/%D0%96%D0%B0%D0%BC%D0%B1%D1%8B%D0%BB_%D0%96%D0%B0%D0%BC%D0%B1%D0%B0%D0%B5%D0%B2"
+  },
+  {
+    "name": "Фариза Оңғарсынова",
+    "place": [47.381853, 50.381474],
+    "image": "",
+    "youtube_url": "https://www.youtube.com/embed/rvGCeUZW77E?si=qs1sQf5uSygt2jWi",
+    "wiki": "https://kk.wikipedia.org/wiki/%D0%A4%D0%B0%D1%80%D0%B8%D0%B7%D0%B0_%D0%9E%D3%A3%D2%93%D0%B0%D1%80%D1%81%D1%8B%D0%BD%D0%BE%D0%B2%D0%B0"
+  },
+  {
+    "name": "Есет Қараұлы",
+    "place": [48.455, 52.929167],
+    "image": "",
+    "youtube_url": "https://www.youtube.com/embed/V1YZSxcqCBw?si=ZJIlHjg1kp1PRsY4",
+    "wiki": "https://kk.wikipedia.org/wiki/%D0%95%D1%81%D0%B5%D1%82_%D2%9A%D0%B0%D1%80%D0%B0%D2%B1%D1%83%D0%BB%D1%8B"
+  },
+  {
+    "name": "Абыл Тілеуұлы",
+    "place": [43.866667, 52],
+    "image": "",
+    "youtube_url": "https://www.youtube.com/embed/lO1k-fJQmA4?si=aDrotB4Zlb-T1fU6",
+    "wiki": "https://kk.wikipedia.org/wiki/%D0%90%D0%B1%D1%8B%D0%BB_%D0%A2%D1%96%D0%BB%D0%B5%D1%83%D2%B1%D0%BB%D1%8B"
+  },
+  {
+    "name": "Мұзафар Әлімбаев",
+    "place": [52.5, 78.16],
+    "image": "",
+    "youtube_url": "https://www.youtube.com/embed/p3WrsWqZh1s?si=MCiRS4cYL7I7F_eD",
+    "wiki": "https://kk.wikipedia.org/wiki/%D0%9C%D2%B1%D0%B7%D0%B0%D1%84%D0%B0%D1%80_%D3%98%D0%BB%D1%96%D0%BC%D0%B1%D0%B0%D0%B5%D0%B2"
+  },
+  {
+    "name": "Роза Мұқанова",
+    "place": [46.974805, 81.462491],
+    "image": "",
+    "youtube_url": "https://www.youtube.com/embed/k6p0qFC-oyY?si=WWNnN-ac4aGqCVRw",
+    "wiki": "https://kk.wikipedia.org/wiki/%D0%A0%D0%BE%D0%B7%D0%B0_%D0%9C%D2%B1%D2%9B%D0%B0%D0%BD%D0%BE%D0%B2%D0%B0"
+  },
+  {
+    "name": "Дулат Бабатайұлы",
+    "place": [47.965833, 80.431111],
+    "image": "",
+    "youtube_url": "https://www.youtube.com/embed/TcYhGLTt1Rw?si=I48BB0tWMP95VlCM",
+    "wiki": "https://kk.wikipedia.org/wiki/%D0%91%D0%B0%D0%B1%D0%B0%D1%82%D0%B0%D0%B5%D0%B2,_%D0%94%D1%83%D0%BB%D0%B0%D1%82_%D0%91%D0%B0%D0%B1%D0%B0%D1%82%D0%B0%D0%B9%D1%83%D0%BB%D1%8B"
+  },
+  {
+    "name": "Мұхтар Мағауин",
+    "place": [48.167222, 78.663611],
+    "image": "",
+    "youtube_url": "https://www.youtube.com/embed/W48wS7pBpqU?si=3DWJxo44ZkbUU-hq",
+    "wiki": "https://kk.wikipedia.org/wiki/%D0%9C%D2%B1%D2%9B%D1%82%D0%B0%D1%80_%D0%9C%D0%B0%D2%93%D0%B0%D1%83%D1%96%D0%BD"
+  },
+  {
+    "name": "Әсет Найманбайұлы",
+    "place": [48.316087, 74.981362],
+    "image": "",
+    "youtube_url": "https://www.youtube.com/embed/QhifAntT59c?si=kDAM8isq8oFWnFkZ",
+    "wiki": "https://kk.wikipedia.org/wiki/%D0%9D%D0%B0%D0%B9%D0%BC%D0%B0%D0%BD%D0%B1%D0%B0%D0%B9%D1%83%D0%BB%D1%8B,_%D3%98%D1%81%D0%B5%D1%82"
+  },
+  {
+    "name": "Дулат Исабеков",
+    "place": [42.432744, 68.813798],
+    "image": "",
+    "youtube_url": "https://www.youtube.com/embed/a0niICM_JjY?si=109XdNaSCGOL-1hM",
+    "wiki": "https://kk.wikipedia.org/wiki/%D0%98%D1%81%D0%B0%D0%B1%D0%B5%D0%BA%D0%BE%D0%B2,_%D0%94%D1%83%D0%BB%D0%B0%D1%82"
+  },
+  {
+    "name": "Мұхтар Шаханов",
+    "place": [42.224444, 70.176667],
+    "image": "",
+    "youtube_url": "https://www.youtube.com/embed/veBGJU5amR0?si=bL4wdbwwqILLzukb",
+    "wiki": "https://kk.wikipedia.org/wiki/%D0%A8%D0%B0%D1%85%D0%B0%D0%BD%D0%BE%D0%B2,_%D0%9C%D2%B1%D1%85%D1%82%D0%B0%D1%80"
+  },
+  {
+    "name": "Тәкен Әлімқұлов",
+    "place": [45.12, 68.64],
+    "image": "",
+    "youtube_url": "https://www.youtube.com/embed/-4zd1XFUxS4?si=ReDyhiM3KnuVRYFQ",
+    "wiki": "https://kk.wikipedia.org/wiki/%D2%AE%D0%BB%D1%96%D0%BC%D2%9B%D2%B1%D0%BB%D0%BE%D0%B2,_%D0%A2%D3%99%D0%BA%D0%B5%D0%BD"
+  },
+  {
+    "name": "Қасым Аманжолов",
+    "place": [49.47, 75.51],
+    "image": "",
+    "wiki": "https://kk.wikipedia.org/wiki/%D2%9A%D0%B0%D1%81%D1%8B%D0%BC_%D0%90%D0%BC%D0%B0%D0%BD%D0%B6%D0%BE%D0%BB%D0%BE%D0%B2",
+    "youtube_url": "https://www.youtube.com/embed/EblEzMdioic"
+  },
+  {
+    "name": "Бауыржан Момышұлы",
+    "place": [42.608611, 70.782222],
+    "image": "",
+    "wiki": "https://kk.wikipedia.org/wiki/%D0%91%D0%B0%D1%83%D1%8B%D1%80%D0%B6%D0%B0%D0%BD_%D0%9C%D0%BE%D0%BC%D1%8B%D1%88%D2%B1%D0%BB%D1%8B",
+    "youtube_url": "https://www.youtube.com/embed/MdfRJTYKcc8"
+  },
+  {
+    "name": "Кенен Әзірбаев",
+    "place": [43.566667, 75.281944],
+    "image": "",
+    "wiki": "https://kk.wikipedia.org/wiki/%D0%9A%D0%B5%D0%BD%D0%B5%D0%BD_%D3%98%D0%B7%D1%96%D1%80%D0%B1%D0%B0%D0%B5%D0%B2",
+    "youtube_url": "https://www.youtube.com/embed/_qASQte9mtg"
+  },
+  {
+    "name": "Шортанбай Қанайұлы",
+    "place": [43.176327, 70.464983],
+    "image": "",
+    "wiki": "https://kk.wikipedia.org/wiki/%D0%A8%D0%BE%D1%80%D1%82%D0%B0%D0%BD%D0%B1%D0%B0%D0%B9_%D2%9A%D0%B0%D0%BD%D0%B0%D0%B9%D2%B1%D0%BB%D1%8B",
+    "youtube_url": "https://www.youtube.com/embed/4FWWIspP_qM"
+  },
+  {
+    "name": "Саттар Ерубаев",
+    "place": [43.302026, 68.268982],
+    "image": "",
+    "wiki": "https://kk.wikipedia.org/wiki/%D0%A1%D0%B0%D1%82%D1%82%D0%B0%D1%80_%D0%95%D1%80%D1%83%D0%B1%D0%B0%D0%B5%D0%B2",
+    "youtube_url": "https://www.youtube.com/embed/ZvoSxM8HJBw"
+  },
+  {
+    "name": "Қайрат Жұмағалиев",
+    "place": [49.975995, 55.361338],
+    "image": "",
+    "wiki": "https://kk.wikipedia.org/wiki/%D2%9A%D0%B0%D0%B9%D1%80%D0%B0%D1%82_%D0%96%D2%B1%D0%BC%D0%B0%D2%93%D0%B0%D0%BB%D0%B8%D0%B5%D0%B2",
+    "youtube_url": "https://www.youtube.com/embed/s5qP2Qn-r8g"
+  },
+
+  {
+    "name": "Жұбан Молдағалиев",
+    "place": [49.034606, 51.828327],
+    "image": "",
+    "wiki": "https://kk.wikipedia.org/wiki/%D0%96%D2%B1%D0%B1%D0%B0%D0%BD_%D0%9C%D0%BE%D0%BB%D0%B4%D0%B0%D2%93%D0%B0%D0%BB%D0%B8%D0%B5%D0%B2",
+    "youtube_url": "https://www.youtube.com/embed/wruKj6TE778"
+  },
+  {
+    "name": "Ақұштап Бақтыгереева",
+    "place": [49.713889, 51.661944],
+    "image": "",
+    "wiki": "https://kk.wikipedia.org/wiki/%D0%90%D2%9B%D2%B1%D1%88%D1%82%D0%B0%D0%BF_%D0%91%D0%B0%D2%9B%D1%82%D1%8B%D0%B3%D0%B5%D1%80%D0%B5%D0%B5%D0%B2%D0%B0",
+    "youtube_url": "https://www.youtube.com/embed/-Ify-poajbk"
+  },
+
+  {
+    "name": "Әбу Сәрсенбаев",
+    "place": [46.6047, 49.270213],
+    "image": "",
+    "wiki": "https://kk.wikipedia.org/wiki/%D3%98%D0%B1%D1%83_%D0%A1%D3%99%D1%80%D1%81%D0%B5%D0%BD%D0%B1%D0%B0%D0%B5%D0%B2",
+    "youtube_url": "https://www.youtube.com/embed/6Ba2db77Ur4"
+  },
+  {
+    "name": "Жұмекен Нәжімеденов",
+    "place": [47.353611, 49.021944],
+    "image": "",
+    "wiki": "https://kk.wikipedia.org/wiki/%D0%96%D2%B1%D0%BC%D0%B5%D0%BA%D0%B5%D0%BD_%D0%A1%D0%B0%D0%B1%D1%8B%D1%80%D2%B1%D0%BB%D1%8B_%D0%9D%D3%99%D0%B6%D1%96%D0%BC%D0%B5%D0%B4%D0%B5%D0%BD%D0%BE%D0%B2",
+    "youtube_url": "https://www.youtube.com/embed/A43SNiL1Gtw"
+  },
+  {
+    "name": "Хамит Ерғалиев",
+    "place": [47.352778, 51.200833],
+    "image": "",
+    "wiki": "https://kk.wikipedia.org/wiki/%D0%A5%D0%B0%D0%BC%D0%B8%D1%82_%D0%95%D1%80%D2%93%D0%B0%D0%BB%D0%B8%D0%B5%D0%B2",
+    "youtube_url": "https://www.youtube.com/embed/e_3E35Sc5l8"
+  },
+
+  {
+    "name": "Әбіш Кекілбаев",
+    "place": [44.068611, 52.433333],
+    "wiki": "https://kk.wikipedia.org/wiki/%D3%98%D0%B1%D1%96%D1%88_%D0%9A%D0%B5%D0%BA%D1%96%D0%BB%D0%B1%D0%B0%D0%B5%D0%B2",
+    "youtube_url": "https://www.youtube.com/embed/ocWCC0tDZcU",
+    "image": ""
+  },
+
+  {
+    "name": "Тахауи Ахтанов",
+    "place": [49.203611, 58.753333],
+    "wiki": "https://wikipedia.org/wiki/%D0%A2%D0%B0%D1%85%D0%B0%D1%83%D0%B8_%D0%90%D1%85%D1%82%D0%B0%D0%BD%D0%BE%D0%B2",
+    "youtube_url": "https://www.youtube.com/embed/arQna76xb5A",
+    "image": ""
+  },
+  {
+    "name": "Сағи Жиенбаев",
+    "place": [47.259722, 55.884167],
+    "wiki": "https://wikipedia.org/wiki/%D0%A1%D0%B0%D2%93%D0%B8_%D0%96%D0%B8%D0%B5%D0%BD%D0%B1%D0%B0%D0%B5%D0%B2",
+    "youtube_url": "https://www.youtube.com/embed/CYN0pHgKT9Y",
+    "image": ""
+  },
+  {
+    "name": "Бернияз Күлеев",
+    "place": [50.97185, 57.299103],
+    "wiki": "https://wikipedia.org/wiki/%D0%91%D0%B5%D1%80%D0%BD%D0%B8%D1%8F%D0%B7_%D0%9A%D2%AF%D0%BB%D0%B5%D0%B5%D0%B2",
+    "youtube_url": "",
+    "image": ""
+  },
+  {
+    "name": "Нұрпейіс Байғанин",
+    "place": [47.31, 56.73],
+    "wiki": "https://wikipedia.org/wiki/%D0%9D%D2%B1%D1%80%D0%BF%D0%B5%D0%B9%D1%96%D1%81_%D0%91%D0%B0%D0%B9%D2%93%D0%B0%D0%BD%D1%96%D0%BD",
+    "youtube_url": "https://www.youtube.com/embed/AbqAEP5I4O8",
+    "image": ""
+  },
+
+  {
+    "name": "Сырбай Мәуленов",
+    "place": [49.8, 63.716667],
+    "wiki": "https://wikipedia.org/wiki/%D0%A1%D1%8B%D1%80%D0%B1%D0%B0%D0%B9_%D0%9C%D3%99%D1%83%D0%BB%D0%B5%D0%BD%D0%BE%D0%B2",
+    "youtube_url": "https://www.youtube.com/embed/7K3bmpxp0dE?si=xiZGyr61TIXB3XTD",
+    "image": ""
+  },
+  {
+    "name": "Ғафу Қайырбеков",
+    "place": [49.634444, 63.498056],
+    "wiki": "https://wikipedia.org/wiki/%D2%92%D0%B0%D1%84%D1%83_%D2%9A%D0%B0%D0%B9%D1%8B%D1%80%D0%B1%D0%B5%D0%BA%D0%BE%D0%B2",
+    "youtube_url": "https://www.youtube.com/embed/XbIDyfqVxCQ?si=OMUeg75-qE8tEOiH",
+    "image": ""
+  },
+
+  {
+    "name": "Мағжан Жұмабаев",
+    "place": [54.915, 70.45],
+    "wiki": "https://wikipedia.org/wiki/%D0%9C%D0%B0%D2%93%D0%B6%D0%B0%D0%BD_%D0%96%D2%B1%D0%BC%D0%B0%D0%B1%D0%B0%D0%B5%D0%B2",
+    "youtube_url": "https://www.youtube.com/embed/q67XqLfb1ok?si=kMZCdxLnJ940hpy9",
+    "image": ""
+  },
+  {
+    "name": "Ақан сері Қорамсаұлы",
+    "place": [53.377778, 68.368889],
+    "wiki": "https://wikipedia.org/wiki/%D0%90%D2%9B%D0%B0%D0%BD_%D1%81%D0%B5%D1%80%D1%96",
+    "youtube_url": "https://www.youtube.com/embed/xbJuD4ye1Wo?si=LF6PRuO9qnF_j08E",
+    "image": ""
+  },
+
+  {
+    "name": "Сәкен Жүнісов",
+    "place": [53.640013, 72.331026],
+    "wiki": "https://wikipedia.org/wiki/%D0%A1%D3%99%D0%BA%D0%B5%D0%BD_%D0%96%D2%AF%D0%BD%D1%96%D1%81%D0%BE%D0%B2",
+    "youtube_url": "https://www.youtube.com/embed/ztQUF32OipY?si=iG9NKGCbkXMu1IjH",
+    "image": ""
+  },
+  {
+    "name": "Баянғали Әлімжанов",
+    "place": [52.827778, 70.779722],
+    "wiki": "https://wikipedia.org/wiki/%D0%91%D0%B0%D1%8F%D0%BD%D2%93%D0%B0%D0%BB%D0%B8_%D3%98%D0%BB%D1%96%D0%BC%D0%B6%D0%B0%D0%BD%D0%BE%D0%B2",
+    "youtube_url": "https://www.youtube.com/embed/15Ep-uLTdlY?si=SQuUuFRxiJmQYMhA",
+    "image": ""
+  },
+
+  {
+    "name": "Сұлтанмахмұт Торайғыров",
+    "place": [50.84, 75.67],
+    "wiki": "https://wikipedia.org/wiki/%D0%A1%D2%B1%D0%BB%D1%82%D0%B0%D0%BD%D0%BC%D0%B0%D1%85%D0%BC%D2%B1%D1%82_%D0%A2%D0%BE%D1%80%D0%B0%D0%B9%D2%93%D1%8B%D1%80%D0%BE%D2%9F",
+    "youtube_url": "https://www.youtube.com/embed/_o7LF-Uabr0?si=S5uyn1-sZ8u9z-2E",
+    "image": ""
+  },
+  {
+    "name": "Мәшһүр Жүсіп Көпеев",
+    "place": [50.84, 75.67],
+    "wiki": "https://wikipedia.org/wiki/%D0%9C%D3%99%D1%88%D2%BB%D2%AF%D1%80_%D0%96%D2%AF%D1%81%D1%96%D0%BF_%D0%9A%D3%A9%D0%BF%D0%B5%D0%B5%D0%B2",
+    "youtube_url": "https://www.youtube.com/embed/XwEtjMjZnyA?si=4ihaYbrS5OMaCT1U",
+    "image": ""
+  },
+  {
+    "name": "Иса Байзақов",
+    "place": [53.657222, 75.009722],
+    "wiki": "https://wikipedia.org/wiki/%D0%98%D1%81%D0%B0_%D0%91%D0%B0%D0%B9%D0%B7%D0%B0%D2%9B%D0%BE%D0%B2",
+    "youtube_url": "https://www.youtube.com/embed/gC6bRStdUJs?si=VQpiEUzUxUXeVGj0",
+    "image": ""
+  },
+  {
+    "name": "Зейін Шашкин",
+    "place": [51.683889, 74.299167],
+    "wiki": "https://wikipedia.org/wiki/%D0%97%D0%B5%D0%B9%D1%96%D0%BD_%D0%96%D2%AF%D0%BD%D1%96%D1%81%D0%B1%D0%B5%D0%BA%D2%B1%D0%BB%D1%8B_%D0%A8%D0%B0%D1%88%D0%BA%D1%96%D0%BD",
+    "youtube_url": "https://www.youtube.com/embed/UQ6Ma9ywEwo?si=JRnzd3Ec8V0xQlGW",
+    "image": ""
+  },
+
+  {
+    "name": "Әзілхан Нұршайықов",
+    "place": [49.273611, 81.136667],
+    "wiki": "https://wikipedia.org/wiki/%D0%90%D2%99%D0%B7%D1%96%D0%BB%D1%85%D0%B0%D0%BD_%D0%9D%D2%B1%D1%80%D1%88%D0%B0%D0%B9%D1%8B%D2%9B%D0%BE%D0%B2",
+    "youtube_url": "https://www.youtube.com/embed/KI7FVczZjk0?si=H4Ja9Pc661cok56M",
+    "image": ""
+  },
+  {
+    "name": "Сәбит Дөнентаев",
+    "place": [50.411944, 80.2275],
+    "wiki": "https://wikipedia.org/wiki/%D0%A1%D3%99%D0%B1%D0%B8%D1%82_%D0%94%D3%A9%D0%BD%D0%B5%D0%BD%D1%82%D0%B0%D0%B5%D0%B2",
+    "youtube_url": "https://www.youtube.com/embed/jgwC7HAF34Y?si=neywLPXcoU4D8tel",
+    "image": ""
+  },
+
+  {
+    "name": "Оралхан Бөкей",
+    "place": [49.183333, 85.868056],
+    "wiki": "https://wikipedia.org/wiki/%D0%9E%D1%80%D0%B0%D0%BB%D1%85%D0%B0%D0%BD_%D0%91%D3%A9%D0%BA%D0%B5%D0%B9",
+    "youtube_url": "https://www.youtube.com/embed/BcVl_sIjEI4?si=J0cEUHRh-xDa9vFQ",
+    "image": ""
+  },
+  {
+    "name": "Асқар Алтай",
+    "place": [47.472778, 84.874722],
+    "wiki": "https://wikipedia.org/wiki/%D0%90%D1%81%D2%9B%D0%B0%D1%80_%D0%90%D0%BB%D1%82%D0%B0%D0%B9",
+    "youtube_url": "https://www.youtube.com/embed/75Ii3l8XmUk?si=ZT7YlVXpm6qHCR37",
+    "image": ""
+  },
+  {
+    "name": "Марат Қабанбай",
+    "place": [47.438056, 84.922222],
+    "wiki": "https://wikipedia.org/wiki/%D0%9C%D0%B0%D1%80%D0%B0%D1%82_%D2%9A%D0%B0%D0%B1%D0%B0%D0%BD%D0%B1%D0%B0%D0%B9",
+    "youtube_url": "https://www.youtube.com/embed/XkryLCbW6TQ?si=zlR-4yJMxFApTzMp",
+    "image": ""
+  },
+
+  {
+    "name": "Бексұлтан Нұржекеұлы",
+    "place": [44.143611, 79.765278],
+    "wiki": "https://wikipedia.org/wiki/%D0%91%D0%B5%D0%BA%D1%81%D2%B1%D0%BB%D1%82%D0%B0%D0%BD_%D0%9D%D2%B1%D1%80%D0%B6%D0%B5%D0%BA%D0%B5%D2%B1%D0%BB%D1%8B",
+    "youtube_url": "https://www.youtube.com/embed/MG0ZERFTdkQ?si=RL3s-91hB-7F5Mcy",
+    "image": ""
+  },
+  {
+    "name": "Жұматай Жақыпбаев",
+    "place": [44.889722, 78.485833],
+    "wiki": "https://wikipedia.org/wiki/%D0%96%D2%B1%D0%BC%D0%B0%D1%82%D0%B0%D0%B9_%D0%96%D0%B0%D2%9B%D1%8B%D0%BF%D0%B1%D0%B0%D0%B5%D0%B2",
+    "youtube_url": "https://www.youtube.com/embed/Pjzo2-G-DS4?si=4lb5vY086rrVrtnu",
+    "image": ""
+  },
+
+  {
+    "name": "Баубек Бұлқышев",
+    "place": [47.9725, 65.723333],
+    "wiki": "https://wikipedia.org/wiki/%D0%91%D0%B0%D1%83%D0%B1%D0%B5%D0%BA_%D0%91%D2%B1%D0%BB%D2%9B%D1%8B%D1%88%D0%B5%D0%B2",
+    "youtube_url": "https://www.youtube.com/embed/EhbC16PBEJI?si=Ho_HGvVZgcDjvy2j",
+    "image": ""
+  },
+  {
+    "name": "Болман Қожабайұлы",
+    "place": [48, 71],
+    "wiki": "https://wikipedia.org/wiki/%D0%91%D0%BE%D0%BB%D0%BC%D0%B0%D0%BD_%D2%9A%D0%BE%D0%B6%D0%B0%D0%B1%D0%B0%D0%B9%D2%B1%D0%BB%D1%8B",
+    "youtube_url": "",
+    "image": ""
+  },
+
+  {
+    "name": "Тұманбай Молдағалиев",
+    "place": [43.353056, 77.539167],
+    "wiki": "https://wikipedia.org/wiki/%D0%A2%D2%B1%D0%BC%D0%B0%D0%BD%D0%B1%D0%B0%D0%B9_%D0%9C%D0%BE%D0%BB%D0%B4%D0%B0%D2%93%D0%B0%D0%BB%D0%B8%D0%B5%D0%B2",
+    "youtube_url": "https://www.youtube.com/embed/W4kg9Ye91iI?si=yKgrKErK52L-O3L4",
+    "image": ""
+  },
+  {
+    "name": "Өтепберген Ақылбекұлы",
+    "place": [45.383056, 78.726667],
+    "wiki": "https://wikipedia.org/wiki/%D3%A8%D1%82%D0%B5%D0%BF%D0%B1%D0%B5%D1%80%D0%B3%D0%B5%D0%BD_%D0%90%D2%9B%D1%8B%D0%BB%D0%B1%D0%B5%D0%BA%D2%B1%D0%BB%D1%8B",
+    "youtube_url": "",
+    "image": ""
+  },
+
+  {
+    "name": "Әбдіжәміл Нұрпейісов",
+    "place": [46.093333, 59.514722],
+    "wiki": "https://wikipedia.org/wiki/%D3%98%D0%B1%D0%B4%D1%96%D0%B6%D3%99%D0%BC%D1%96%D0%BB_%D0%9D%D2%B1%D1%80%D0%BF%D0%B5%D0%B9%D1%96%D1%81%D0%BE%D0%B2",
+    "youtube_url": "https://www.youtube.com/embed/1CSDwXM5MMA?si=qKJz5eYYgNamAuoo",
+    "image": ""
+  },
+  {
+    "name": "Әбділда Тәжібаев",
+    "place": [44.85, 65.516667],
+    "wiki": "https://wikipedia.org/wiki/%D3%98%D0%B1%D0%B4%D1%96%D0%BB%D0%B4%D0%B0_%D0%A2%D3%99%D0%B6%D1%96%D0%B1%D0%B0%D0%B5%D0%B2",
+    "youtube_url": "https://www.youtube.com/embed/Yc0Ml6hLDDM?si=2ERvlu2ZIphAcsWE",
+    "image": ""
+  },
+  {
+    "name": "Адырбек Сопыбеков",
+    "place": [43.792222, 67.367778],
+    "wiki": "https://wikipedia.org/wiki/%D0%90%D0%B4%D1%8B%D1%80%D0%B1%D0%B5%D0%BA_%D0%A1%D0%BE%D0%BF%D1%8B%D0%B1%D0%B5%D0%BA%D0%BE%D0%B2",
+    "youtube_url": "https://www.youtube.com/embed/-H-rYFZ9dVc?si=wtuWFBsnrbgbX89z",
+    "image": ""
+  },
+  {
+    "name": "Жарасқан Әбдіраш",
+    "place": [46.108611, 61.541944],
+    "wiki": "https://wikipedia.org/wiki/%D0%96%D0%B0%D1%80%D0%B0%D1%81%D2%9B%D0%B0%D0%BD_%D3%98%D0%B1%D0%B4%D1%96%D1%80%D0%B0%D1%88",
+    "youtube_url": "https://www.youtube.com/embed/6iYy8cXt9r8?si=yKeOd6LkTpPHXcWB",
+    "image": ""
+  },
+  {
+    "name": "Шөмішбай Сариев",
+    "place": [46.786667, 61.670833],
+    "wiki": "https://wikipedia.org/wiki/%D0%A8%D3%A9%D0%BC%D1%96%D1%88%D0%B1%D0%B0%D0%B9_%D0%A1%D0%B0%D1%80%D0%B8%D0%B5%D0%B2",
+    "youtube_url": "https://www.youtube.com/embed/CHuIkQCzJNc?si=PJCTgBiLUbEVbyEG",
+    "image": ""
+  },
+  {
+    "name": "Зейнолла Шүкіров",
+    "place": [46.783333, 61.666667],
+    "wiki": "https://wikipedia.org/wiki/%D0%97%D0%B5%D0%B9%D0%BD%D0%BE%D0%BB%D0%BB%D0%B0_%D0%A8%D2%AF%D0%BA%D1%96%D1%80%D0%BE%D0%B2",
+    "youtube_url": "https://www.youtube.com/embed/riBWKgmdTVY?si=nbc-QPNmAA74vK2V",
+    "image": ""
+  },
+
+  {
+    "name": "Сансызбай Сарғасқаев",
+    "place": [43.246389, 75.204167],
+    "wiki": "https://wikipedia.org/wiki/%D0%A1%D0%B0%D0%BD%D1%81%D1%8B%D0%B7%D0%B1%D0%B0%D0%B9_%D0%A1%D0%B0%D1%80%D2%93%D0%B0%D1%81%D2%9B%D0%B0%D0%B5%D0%B2",
+    "youtube_url": "https://www.youtube.com/embed/K72467gtlTo?si=Allk890ZN98BEn_E",
+    "image": ""
+  },
+  {
+    "name": "Шона Смаханұлы",
+    "place": [43.791389, 70.938889],
+    "wiki": "https://wikipedia.org/wiki/%D0%A8%D0%BE%D0%BD%D0%B0_%D0%A1%D0%BC%D0%B0%D1%85%D0%B0%D0%BD%D2%B1%D0%BB%D1%8B",
+    "youtube_url": "https://www.youtube.com/embed/niq9UtQe0jQ?si=TDuo2WaoXpAl3jDp",
+    "image": ""
+  },
+
+  {
+    "name": "Өтебай Тұрманжанов",
+    "place": [42.594444, 69.255556],
+    "wiki": "https://wikipedia.org/wiki/%D3%A8%D1%82%D0%B5%D0%B1%D0%B0%D0%B9_%D0%A2%D2%B1%D1%80%D0%BC%D0%B0%D0%BD%D0%B6%D0%B0%D0%BD%D0%BE%D0%B2",
+    "youtube_url": "https://www.youtube.com/embed/tR0AbKLfN7U?si=YZCRAT7dqFNZnBoS",
+    "image": ""
   }
 ]

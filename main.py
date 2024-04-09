@@ -18,7 +18,7 @@ for person in data:
     folium.Marker(location, popup=generate_popup(person)).add_to(map)
 
 # highlight Kazakhstan
-with open('kz.geojson', 'r') as f:
+with open('kz.json', 'r') as f:
     geojson_data = f.read()
 
 folium.GeoJson(geojson_data).add_to(map)
